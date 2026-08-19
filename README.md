@@ -143,23 +143,5 @@ Each security area follows a basic security assessment process:
 ## Disclaimer
 
 This project was conducted in a controlled Ubuntu virtual machine for educational and portfolio purposes. No unauthorized systems or third-party environments were targeted during this project.
-```text
-linux-security-audit/
-│
-├── README.md
-│
-├── evidence/
-│   ├── 01-file-permissions.png
-│   ├── 02-user-group-access.png
-│   ├── 03-process-monitoring.png
-│   └── 04-authentication-logs.png
-│
-├── findings/
-│   ├── 01-file-permissions.md
-│   ├── 02-user-group-access.md
-│   ├── 03-process-monitoring.md
-│   └── 04-authentication-logs.md
-│
-└── commands/
-    └── command-history.txt
+
 
