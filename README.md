@@ -48,7 +48,7 @@ Investigated Linux file and directory permissions to identify inappropriate acce
 - Access control
 - Security remediation
 
-## 2. User & Group Access Control
+## 1.1. User & Group Access Control
 **Status:** Completed
 
 Reviewed Linux users and groups to determine whether users had appropriate access to protected resources. Access was tested between different users, and group-based permissions were used to ensure that authorized users could access resources while unauthorized users were denied.
