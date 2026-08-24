@@ -60,7 +60,7 @@ Reviewed Linux users and groups to determine whether users had appropriate acces
 - User permission testing
 - Access verification
 
-## 3. Process Monitoring
+## 2. Process Monitoring
 **Status:** Completed
 
 Investigated running processes and examined parent-child process relationships. A test process was created and monitored to identify its process ID (PID) and parent process ID (PPID). The process was then investigated and safely terminated.
@@ -76,7 +76,7 @@ Investigated running processes and examined parent-child process relationships. 
 - Process investigation
 - Process termination
 
-## 4. Authentication Log Analysis
+## 3. Authentication Log Analysis
 **Status:** In Progress
 
 Authentication and security logs are being analyzed to identify successful and failed authentication attempts and other potentially suspicious activity. The investigation includes reviewing relevant Linux authentication logs and identifying patterns that could indicate unauthorized access attempts.
